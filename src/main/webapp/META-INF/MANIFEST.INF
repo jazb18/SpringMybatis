@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Create-by: Apache Maven
+Build-by: Jose Zafra
+Build-Jdk: 1.7
+SO: ubuntu 14.04   
